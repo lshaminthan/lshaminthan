@@ -35,34 +35,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📌 Featured Projects
-
-**[LankaRoute](https://sri-lanka-travel-planner-rust.vercel.app/)**
-AI-powered travel planning platform for Sri Lanka — submitted to the SLTDA Tourism Start-Up Competition 2026.
-
-**Automated Interview Scheduling System** — *Cognetix (R&D Internship)*
-Built backend services with Python, FastAPI, and MongoDB for email automation and scheduling. Integrated AWS SES, SNS, S3, and the Google Calendar API, with NLP models to analyze candidate emails for sentiment and availability.
-
-**Factory Machine Maintenance Simulation**
-Simulation app (Flutter, Firebase) plus a web platform (React, Node.js, MongoDB) to manage machine failures and adjuster assignments using Mean Time to Failure (MTTF), with real-time failure simulation and queue-based logic.
-
-**SONAR Rock vs Mine Prediction**
-End-to-end ML model classifying sonar signals using Logistic Regression and Random Forest, achieving 76% test accuracy.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lshaminthan&show_icons=true&theme=radical" alt="Lakshman's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lshaminthan&theme=radical" alt="Lakshman's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshaminthan&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
