@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshman Shaminthan</h1>
 <h3 align="center">AI & Full-Stack Developer | Backend Enthusiast | Quick Learner</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lshaminthan&theme=radical" alt="Lakshman's GitHub streak" height="165"/>
-</p>
-
 ### 🧑‍💻 About Me
 
 * 💼 AI & Full-Stack Developer passionate about building scalable web apps, AI-powered tools, and backend systems.
